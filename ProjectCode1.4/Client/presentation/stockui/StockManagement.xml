@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outlook>
+	<module text="个人信息" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png"></module>
+	<module text="出库管理" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png"></module>
+	<module text="入库管理" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png"></module>
+	<module text="库存查看" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png"></module>
+	<module text="库存盘点" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png"></module>
+	<module text="库区调整" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png"></module>
+	<module text="库存信息初始化" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png">
+	</module>
+</outlook>

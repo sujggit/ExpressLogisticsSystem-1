@@ -1,0 +1,15 @@
+package po;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+
+
+
+public class CompanyAccountPO implements Serializable{
+    ArrayList<AgencyPO> agencyList=new ArrayList<AgencyPO>();
+    ArrayList<StaffPO> stafflist=new ArrayList<StaffPO>();
+    ArrayList<CarPO> carlist=new ArrayList<CarPO>();
+//    ArrayList<stock> stocklist=new ArrayList<String>();
+    ArrayList<AccountPO> accountlist=new ArrayList<AccountPO>();
+    
+}
